@@ -23,6 +23,9 @@ public class Users {
         this.Email = email;
         this.Phone = phone;
     }
+    public Users(String userName) {
+        this.UserName = userName;
+    }
 
     public String getUserName() {
         return UserName;
@@ -32,7 +35,7 @@ public class Users {
         UserName = userName;
     }
 
-    public String getFristName() {
+    public String getFirstName() {
         return FristName;
     }
 

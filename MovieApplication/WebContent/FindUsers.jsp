@@ -12,10 +12,10 @@
 </head>
 <body>
 	<form action="findusers" method="post">
-		<h1>Search for a BlogUser by FirstName</h1>
+		<h1>Search for a User by FirstName</h1>
 		<p>
-			<label for="firstname">FirstName</label>
-			<input id="firstname" name="firstname" value="${fn:escapeXml(param.firstname)}">
+			<label for="username">FirstName</label>
+			<input id="username" name="username" value="${fn:escapeXml(param.username)}">
 		</p>
 		<p>
 			<input type="submit">
@@ -24,30 +24,28 @@
 		</p>
 	</form>
 	<br/>
-	<div id="userCreate"><a href="usercreate">Create BlogUser</a></div>
+	<div id="userCreate"><a href="usercreate">Create User</a></div>
 	<br/>
-	<h1>Matching BlogUsers</h1>
+	<h1>Matching Users</h1>
         <table border="1">
             <tr>
                 <th>UserName</th>
                 <th>FirstName</th>
                 <th>LastName</th>
-                <th>DoB</th>
-                <th>BlogPosts</th>
-                <th>Comments</th>
+                <th>Password</th>
+                <th>Phone</th>
                 <th>Delete BlogUser</th>
                 <th>Update BlogUser</th>
             </tr>
-            <c:forEach items="${blogUsers}" var="blogUser" >
+            <c:forEach items="${user}" var="user" >
                 <tr>
-                    <td><c:out value="${blogUser.getUserName()}" /></td>
-                    <td><c:out value="${blogUser.getFirstName()}" /></td>
-                    <td><c:out value="${blogUser.getLastName()}" /></td>
-                    <td><fmt:formatDate value="${blogUser.getDob()}" pattern="yyyy-MM-dd"/></td>
-                    <td><a href="userblogposts?username=<c:out value="${blogUser.getUserName()}"/>">BlogPosts</a></td>
-                    <td><a href="blogcomments?username=<c:out value="${blogUser.getUserName()}"/>">BlogComments</a></td>
-                    <td><a href="userdelete?username=<c:out value="${blogUser.getUserName()}"/>">Delete</a></td>
-                    <td><a href="userupdate?username=<c:out value="${blogUser.getUserName()}"/>">Update</a></td>
+                    <td><c:out value="${user.getUserName()}" /></td>
+                    <td><c:out value="${user.getFirstName()}" /></td>
+                    <td><c:out value="${user.getLastName()}" /></td>
+                    <td><c:out value="${user.getPassword()}" /></td>
+                    <td><c:out value="${user.getPhone()}" /></td>
+                    <td><a href="userdelete?username=<c:out value="${user.getUserName()}"/>">Delete</a></td>
+                    <td><a href="userupdate?username=<c:out value="${user.getUserName()}"/>">Update</a></td>
                 </tr>
             </c:forEach>
        </table>
