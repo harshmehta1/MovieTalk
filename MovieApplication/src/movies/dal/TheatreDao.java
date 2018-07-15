@@ -83,6 +83,36 @@ public class TheatreDao {
     }
 
     /**
+     * Delete the Persons instance.
+     * This runs a DELETE statement.
+     */
+    public Theatre updateTheatreLocation(Theatre theatre,String newlocation) throws SQLException {
+        String updatethreatre = "UPDATE Theatre SET Location=? WHERE TheatreId=?;";
+        Connection connection = null;
+        PreparedStatement updateStmt = null;
+        try {
+            connection = connectionManager.getConnection();
+            updateStmt = connection.prepareStatement(updatethreatre);
+            updateStmt.setString(1, newlocation);
+            updateStmt.setInt(2, theatre.getTheatreid());
+            updateStmt.executeUpdate();
+
+            theatre.setLocation(newlocation);
+            return theatre;
+        } catch (SQLException e) {
+            e.printStackTrace();
+            throw e;
+        } finally {
+            if (connection != null) {
+                connection.close();
+            }
+            if (updateStmt != null) {
+                updateStmt.close();
+            }
+        }
+    }
+
+    /**
      * Get the Persons record by fetching it from your MySQL instance.
      * This runs a SELECT statement and returns a single Persons instance.
      */

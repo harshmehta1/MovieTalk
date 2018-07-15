@@ -48,4 +48,7 @@ public class Theatre {
         this.theatrename = theatrename;
         this.theatreType = theatreType;
     }
+    public Theatre(int theatreid){
+        this.theatreid = theatreid;
+    }
 }

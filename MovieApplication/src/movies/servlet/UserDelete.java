@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-@WebServlet("/movieuserdelete")
+@WebServlet("/userdelete")
 public class UserDelete extends HttpServlet {
 
 	protected UsersDao usersDao;
