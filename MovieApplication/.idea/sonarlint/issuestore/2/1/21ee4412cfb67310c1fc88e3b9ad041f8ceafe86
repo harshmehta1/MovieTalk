@@ -1,0 +1,9 @@
+
+jsquid:S00116"TRename this field "FristName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý”Å“
+ksquid:S00116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äé¡…úÿÿÿÿ
+Ysquid:UselessImportCheck"2Remove this unused import 'javax.print.DocFlavor'.(ÍØƒïúÿÿÿÿ
+Msquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+isquid:S00116"SRename this field "UserName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÍÕ³
+isquid:S00116"SRename this field "LastName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥á½§
+esquid:S00116"PRename this field "Phone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æõ‚\
+isquid:S00116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¥—Ú

@@ -1,0 +1,14 @@
+
+isquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(áÜ§—úÿÿÿÿ
+dsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(è«Ã¢
+dsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÄÂÍˆ
+\squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(íÑÒ¢
+csquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ĞÛËh
+ysquid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "company".(ÖŞşÿÿÿÿ
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+[squid:UselessImportCheck"9Remove this unused import 'restaurant.model.CreditCards'.(¥–óà
+Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

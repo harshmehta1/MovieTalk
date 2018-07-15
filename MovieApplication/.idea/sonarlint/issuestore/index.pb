@@ -1,0 +1,31 @@
+
+Q
+!src/restaurant/model/Reviews.java,4/a/4a161c49ad1a214a485f95ade583409140cf7b2e
+]
+-src/restaurant/model/FoodCartRestaurants.java,e/f/ef68ff00d93df895572866e2afe4175a20e3d54b
+U
+%src/restaurant/model/Restaurants.java,2/f/2f430b184261ddbf3e1807bece2ec0f9d86e488a
+V
+&src/restaurant/model/Reservations.java,f/3/f377289a6ce81c51344acab1701afd0e4e808431
+U
+%src/restaurant/model/CreditCards.java,b/8/b8122edd9a5c5ba3bd923d9c22726d76e4849e10
+\
+,src/restaurant/model/SitDownRestaurants.java,2/b/2bb9e7104972ee5b47d0cd5ad6070e3c6c8e03b7
+U
+%src/restaurant/servlet/FindUsers.java,0/e/0e29dda5adacc3a67b0dfc33052f82280783cdc7
+T
+$src/restaurant/dal/CompaniesDao.java,2/d/2dc27873c887ef606f4e9774ab12755cc93829b1
+Y
+)src/restaurant/model/Recommendations.java,7/c/7c7112eabc81758a86099a341e051c7ec7c19dbb
+\
+,src/restaurant/model/TakeOutRestaurants.java,f/2/f2a137104a9c7af950455a92869a54ab9b6d057e
+O
+src/restaurant/model/Users.java,2/1/21ee4412cfb67310c1fc88e3b9ad041f8ceafe86
+Y
+)src/restaurant/dal/ConnectionManager.java,9/d/9d328e5e5b91151c9628740688d0fc688d3b33be
+S
+#src/restaurant/model/Companies.java,d/4/d4474d1c88dd1956533a3388674005fcdd55e438
+P
+ src/restaurant/dal/UsersDao.java,f/2/f2e615d3af9297449510d3bd807c5f59f2354996
+R
+"src/restaurant/tools/Inserter.java,8/f/8fb4cd757826246d2c480d7221a3d7017a41b52c

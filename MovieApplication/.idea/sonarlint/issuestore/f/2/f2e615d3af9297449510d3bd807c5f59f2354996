@@ -1,0 +1,15 @@
+
+dsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ŞÈË
+Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+isquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(›Ãæ…úÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+\squid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(íÑÒ¢
+qsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "user".(ƒÄ­×
+Psquid:UselessImportCheck"/Remove this unused import 'java.sql.Timestamp'.(èò½+
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+dsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(“½ú…
+Msquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü
+isquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(·çÒÁşÿÿÿÿ

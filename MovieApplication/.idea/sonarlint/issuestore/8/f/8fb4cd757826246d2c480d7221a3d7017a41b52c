@@ -1,0 +1,44 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÌÙÉ8£–ïÉ,
+Zsquid:S1854"9Remove this useless assignment to local variable "user1".(ù¿Ú‚ùÿÿÿÿ8£–ïÉ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÃÞÆ†8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹¢úìüÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸õÞíüÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ãé®µþÿÿÿÿ8£–ïÉ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŠïôÑ8£–ïÉ,
+Zsquid:S1854"9Remove this useless assignment to local variable "user3".(ÏÀÎžøÿÿÿÿ8£–ïÉ,
+@squid:UselessImportCheck"Remove this duplicated import.(¸…¼ü
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿‹Ì£8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­êÚòýÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ý£–šøÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²äìžÿÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(íìó¯ûÿÿÿÿ8£–ïÉ,
+Ysquid:S1854"8Remove this useless assignment to local variable "user".(ÉÑÎ¤ýÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º•¯‡úÿÿÿÿ8£–ïÉ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…âÚ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“ó¯¾úÿÿÿÿ8£–ïÉ,
+csquid:S1192"IDefine a constant instead of duplicating this literal "password" 5 times.(òš÷Âùÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØîÿÉøÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ˜Ïóúÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Å°Ö°ýÿÿÿÿ8£–ïÉ,
+Rsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ¬÷E8£–ïÉ,
+[squid:UselessImportCheck"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¹Æ¾É8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿ„»¤ûÿÿÿÿ8£–ïÉ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(þ–”8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÆÊÏßûÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”œ¯Ãûÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ýåé˜þÿÿÿÿ8£–ïÉ,
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.( ž§ïûÿÿÿÿ
+Zsquid:S1854"9Remove this useless assignment to local variable "user4".(Î¸ñ›ýÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(“ó¯¾úÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÒçÛúÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚ÂïÃûÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ç¼ÑÛøÿÿÿÿ8£–ïÉ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÿ„»¤ûÿÿÿÿ8£–ïÉ,
+Usquid:S1854"9Remove this useless assignment to local variable "user2".(„£ÂÃ8£–ïÉ,
+bsquid:S1192"HDefine a constant instead of duplicating this literal "5555555" 5 times.(òš÷Âùÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŒšøÁøÿÿÿÿ8£–ïÉ,
+§%squid:RedundantThrowsDeclarationCheck"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ß‡Ã†8¥Ñ’ïÉ,
