@@ -2,10 +2,10 @@
   <artifact type="exploded-war" name="BlogApplication:Web exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/BlogApplication_Web_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="RestaurantApplication/web/Web" />
+      <element id="javaee-facet-resources" facet="MovieApplication/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="RestaurantApplication" />
+          <element id="module-output" name="MovieApplication" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="module" name="mysql-connector-java-8.0.11.jar" module-name="BlogApplication" />

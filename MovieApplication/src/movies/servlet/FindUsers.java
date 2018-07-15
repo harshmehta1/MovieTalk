@@ -1,4 +1,4 @@
-package restaurant.servlet;
+package movies.servlet;
 
 import movies.dal.*;
 import movies.model.*;
@@ -33,7 +33,7 @@ import javax.servlet.http.HttpServletResponse;
  * 3. Run the Tomcat server at localhost.
  * 4. Point your browser to http://localhost:8080/BlogApplication/findusers.
  */
-@WebServlet("/findusers")
+@WebServlet("/findmovieusers")
 public class FindUsers extends HttpServlet {
 
 	protected UsersDao usersDao;

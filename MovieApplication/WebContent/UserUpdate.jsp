@@ -11,7 +11,7 @@
 <title>Update a User</title>
 </head>
 <body>
-	<h1>Update BlogUser</h1>
+	<h1>Update User</h1>
 	<form action="userupdate" method="post">
 		<p>
 			<label for="username">UserName</label>

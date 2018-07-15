@@ -43,7 +43,7 @@ public class UsersDao {
             insertStmt = connection.prepareStatement(insertUser);
             insertStmt.setString(1, users.getUserName());
             insertStmt.setString(2, users.getPassword());
-            insertStmt.setString(3, users.getFristName());
+            insertStmt.setString(3, users.getFirstName());
             insertStmt.setString(4, users.getLastName());
             insertStmt.setString(5, users.getEmail());
             insertStmt.setString(6, users.getPhone());

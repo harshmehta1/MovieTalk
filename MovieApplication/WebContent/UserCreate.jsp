@@ -11,7 +11,7 @@
 <title>Create a User</title>
 </head>
 <body>
-	<h1>Create BlogUser</h1>
+	<h1>Create User</h1>
 	<form action="usercreate" method="post">
 		<p>
 			<label for="username">UserName</label>
@@ -26,9 +26,18 @@
 			<input id="lastname" name="lastname" value="">
 		</p>
 		<p>
-			<label for="dob">DoB (yyyy-mm-dd)</label>
-			<input id="dob" name="dob" value="">
+			<label for="password">LastName</label>
+			<input id="password" name="password" value="">
 		</p>
+		<p>
+			<label for="email">LastName</label>
+			<input id="email" name="email" value="">
+		</p>
+		<p>
+			<label for="phone">LastName</label>
+			<input id="phone" name="phone" value="">
+		</p>
+
 		<p>
 			<input type="submit">
 		</p>

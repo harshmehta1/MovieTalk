@@ -12,9 +12,9 @@
 </head>
 <body>
 	<form action="findusers" method="post">
-		<h1>Search for a User by FirstName</h1>
+		<h1>Search for a User by UserName</h1>
 		<p>
-			<label for="username">FirstName</label>
+			<label for="username">UserName</label>
 			<input id="username" name="username" value="${fn:escapeXml(param.username)}">
 		</p>
 		<p>

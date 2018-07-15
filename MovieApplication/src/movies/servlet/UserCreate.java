@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-@WebServlet("/usercreate")
+@WebServlet("/movieusercreate")
 public class UserCreate extends HttpServlet {
 
 	protected UsersDao usersDao;
